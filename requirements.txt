@@ -1,2 +1,2 @@
 PaddlePaddle 
-ppgan
+PaddleNLP
